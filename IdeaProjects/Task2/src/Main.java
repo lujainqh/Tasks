@@ -7,7 +7,7 @@ public class Main {
             return;
         }
         String name = args[0];
-        // عشان لو اليوزر دخل الدرجة بالاحرف احوله للانتجر
+        // عشان لو اليوزر دخل الدرجة احوله للانتجر
         int score = Integer.parseInt(args[1]);
         String grade;
         // نحدد القريد حسب الدرجه
